@@ -1,0 +1,10 @@
+C:\Users\jesws1\source\repos\Negotium\Negotium.Common\bin\Debug\netcoreapp3.1\Negotium.Common.deps.json
+C:\Users\jesws1\source\repos\Negotium\Negotium.Common\bin\Debug\netcoreapp3.1\Negotium.Common.dll
+C:\Users\jesws1\source\repos\Negotium\Negotium.Common\obj\Debug\netcoreapp3.1\Negotium.Common.csprojAssemblyReference.cache
+C:\Users\jesws1\source\repos\Negotium\Negotium.Common\obj\Debug\netcoreapp3.1\Negotium.Common.AssemblyInfoInputs.cache
+C:\Users\jesws1\source\repos\Negotium\Negotium.Common\obj\Debug\netcoreapp3.1\Negotium.Common.AssemblyInfo.cs
+C:\Users\jesws1\source\repos\Negotium\Negotium.Common\bin\Debug\netcoreapp3.1\Negotium.Common.runtimeconfig.json
+C:\Users\jesws1\source\repos\Negotium\Negotium.Common\bin\Debug\netcoreapp3.1\Negotium.Common.runtimeconfig.dev.json
+C:\Users\jesws1\source\repos\Negotium\Negotium.Common\bin\Debug\netcoreapp3.1\Negotium.Common.pdb
+C:\Users\jesws1\source\repos\Negotium\Negotium.Common\obj\Debug\netcoreapp3.1\Negotium.Common.dll
+C:\Users\jesws1\source\repos\Negotium\Negotium.Common\obj\Debug\netcoreapp3.1\Negotium.Common.pdb

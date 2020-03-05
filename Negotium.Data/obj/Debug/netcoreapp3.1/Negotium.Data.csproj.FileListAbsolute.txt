@@ -1,0 +1,13 @@
+C:\Users\jesws1\source\repos\Negotium\Negotium.Data\bin\Debug\netcoreapp3.1\Negotium.Data.deps.json
+C:\Users\jesws1\source\repos\Negotium\Negotium.Data\bin\Debug\netcoreapp3.1\Negotium.Data.dll
+C:\Users\jesws1\source\repos\Negotium\Negotium.Data\obj\Debug\netcoreapp3.1\Negotium.Data.csprojAssemblyReference.cache
+C:\Users\jesws1\source\repos\Negotium\Negotium.Data\obj\Debug\netcoreapp3.1\Negotium.Data.AssemblyInfoInputs.cache
+C:\Users\jesws1\source\repos\Negotium\Negotium.Data\obj\Debug\netcoreapp3.1\Negotium.Data.AssemblyInfo.cs
+C:\Users\jesws1\source\repos\Negotium\Negotium.Data\bin\Debug\netcoreapp3.1\Negotium.Data.pdb
+C:\Users\jesws1\source\repos\Negotium\Negotium.Data\obj\Debug\netcoreapp3.1\Negotium.Data.dll
+C:\Users\jesws1\source\repos\Negotium\Negotium.Data\obj\Debug\netcoreapp3.1\Negotium.Data.pdb
+C:\Users\jesws1\source\repos\Negotium\Negotium.Data\bin\Debug\netcoreapp3.1\Negotium.Data.runtimeconfig.json
+C:\Users\jesws1\source\repos\Negotium\Negotium.Data\bin\Debug\netcoreapp3.1\Negotium.Data.runtimeconfig.dev.json
+C:\Users\jesws1\source\repos\Negotium\Negotium.Data\bin\Debug\netcoreapp3.1\Negotium.Common.dll
+C:\Users\jesws1\source\repos\Negotium\Negotium.Data\bin\Debug\netcoreapp3.1\Negotium.Common.pdb
+C:\Users\jesws1\source\repos\Negotium\Negotium.Data\obj\Debug\netcoreapp3.1\Negotium.Data.csproj.CopyComplete
